@@ -1,4 +1,21 @@
 h1{
     background-color: red;
     color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+};
+
+p{
+    font-family: cursive;
+};
+
+.contenedor-principal{
+    display: flex;
+}
+
+.contenedor1{
+    color: red;
+}
+
+.contenedor2{
+    color: blue;
 }
