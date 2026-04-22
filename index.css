@@ -2,11 +2,12 @@ h1{
     background-color: red;
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-};
+    text-align: center
+}
 
 p{
     font-family: cursive;
-};
+}
 
 .contenedor-principal{
     display: flex;
