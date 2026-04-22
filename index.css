@@ -15,20 +15,22 @@ p{
 
 .contenedor1{
     color: red;
-    height: 500px;
-    width: 500px;
+    
 }
 
 .contenedor2{
     color: blue;
-    height: 500px;
-    width: 500px;
+    
 }
 
 .imagen1{
     font-size: smaller;
+    height: 500px;
+    width: 500px;
 }
 
 .imagen2{
     font-size: smaller;
+    height: 500px;
+    width: 500px;
 }
